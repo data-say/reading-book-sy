@@ -4,4 +4,4 @@
 
 |No   | 제목                | 지은이          |완독|
 |:---:|:-------------------:|:-----------:|:----------:|
-|1  | [빅데이터 시대, 성과를 이끌어 내는 데이터 문해력](https://github.com/LeeSaeyoon/reading-book-sy/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%AC%B8%ED%95%B4%EB%A0%A5)  | 카시와기 요시키 | |
+|1  | [빅데이터 시대, 성과를 이끌어 내는 데이터 문해력](https://github.com/data-say/reading-book-sy/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%AC%B8%ED%95%B4%EB%A0%A5)  | 카시와기 요시키 | |
